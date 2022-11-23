@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: rgb(241, 245, 248);
     /* background-image: url("drop-3698073__340.jpg"); */
@@ -66,4 +67,74 @@ body{
     position: relative;
     right: 60%;
     bottom: 8rem;
+=======
+body{
+    background-color: rgb(241, 245, 248);
+    /* background-image: url("drop-3698073__340.jpg"); */
+    position: absolute;
+    /* position: relative; */
+    left: 500px;
+    
+}
+
+.abeka{
+    color: rgb(9, 29, 211);
+    padding: 3rem;
+    margin-bottom: -3rem;
+    right:20px;
+    position: relative ;
+    bottom: ;
+}
+
+.display{
+    margin: 1rem ;
+    left: 0.9em;
+
+    position: absolute;
+    
+}
+
+.form {
+    border: 2px solid ;
+    border-radius: 10px;
+    box-shadow: 5px 4px;
+    position: relative;
+    margin: 20px;
+    padding: 40px;
+    right: -18px;
+    top: 90px;
+    /* left: 400px; */
+}
+
+.fpassword{
+
+    position: relative;
+    top: 2rem;
+    left: 150px;
+}
+
+.log_but{
+
+    position: relative;
+    margin: 100px;
+    left: 50px;
+    bottom: 15rem;
+    padding: 10px;
+    border-radius: 10px;
+    width:400px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.new{
+    position: relative;
+    bottom: 20rem;
+    left: 15em;
+}
+
+.image{
+    position: relative;
+    right: 60%;
+    bottom: 8.2rem;
+>>>>>>> 142cf49e3355ec970d55cf5bb7bd338ced392497
 }
